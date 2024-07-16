@@ -1,4 +1,4 @@
-rm -rf Infi-gathering
+rm -rf Info-gathering
 
 git clone https://github.com/Termux-Cloner/Info-gathering
 
